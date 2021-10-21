@@ -181,8 +181,55 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11.1.0/bits/istream.tcc \
   /usr/include/GLFW/glfw3.h \
   ../glad/include/glad/glad.h \
-  ../glad/include/KHR/khrplatform.h
+  ../glad/include/KHR/khrplatform.h \
+  /usr/include/c++/11.1.0/cmath \
+  /usr/include/math.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-logb.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/iscanonical.h \
+  /usr/include/c++/11.1.0/bits/specfun.h \
+  /usr/include/c++/11.1.0/limits \
+  /usr/include/c++/11.1.0/tr1/gamma.tcc \
+  /usr/include/c++/11.1.0/tr1/special_function_util.h \
+  /usr/include/c++/11.1.0/tr1/bessel_function.tcc \
+  /usr/include/c++/11.1.0/tr1/beta_function.tcc \
+  /usr/include/c++/11.1.0/tr1/ell_integral.tcc \
+  /usr/include/c++/11.1.0/tr1/exp_integral.tcc \
+  /usr/include/c++/11.1.0/tr1/hypergeometric.tcc \
+  /usr/include/c++/11.1.0/tr1/legendre_function.tcc \
+  /usr/include/c++/11.1.0/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/11.1.0/tr1/poly_hermite.tcc \
+  /usr/include/c++/11.1.0/tr1/poly_laguerre.tcc \
+  /usr/include/c++/11.1.0/tr1/riemann_zeta.tcc
 
+
+/usr/include/c++/11.1.0/tr1/poly_laguerre.tcc:
+
+/usr/include/c++/11.1.0/tr1/hypergeometric.tcc:
+
+/usr/include/c++/11.1.0/tr1/exp_integral.tcc:
+
+/usr/include/c++/11.1.0/tr1/bessel_function.tcc:
+
+/usr/include/c++/11.1.0/tr1/special_function_util.h:
+
+/usr/include/c++/11.1.0/tr1/gamma.tcc:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/include/bits/libm-simd-decl-stubs.h:
+
+/usr/include/math.h:
+
+/usr/include/c++/11.1.0/cmath:
 
 ../glad/include/KHR/khrplatform.h:
 
@@ -220,6 +267,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11.1.0/bits/std_abs.h:
 
+/usr/include/c++/11.1.0/tr1/beta_function.tcc:
+
 /usr/include/alloca.h:
 
 /usr/include/bits/types/sigset_t.h:
@@ -227,6 +276,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/bits/select.h:
 
 /usr/include/sys/select.h:
+
+/usr/include/c++/11.1.0/tr1/ell_integral.tcc:
 
 /usr/include/bits/uintn-identity.h:
 
@@ -240,6 +291,10 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11.1.0/ext/string_conversions.h:
 
+/usr/include/c++/11.1.0/tr1/modified_bessel_func.tcc:
+
+/usr/include/bits/math-vector.h:
+
 /usr/include/c++/11.1.0/bits/ptr_traits.h:
 
 /usr/include/c++/11.1.0/bits/basic_ios.h:
@@ -251,6 +306,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11.1.0/streambuf:
 
 /usr/include/c++/11.1.0/bits/concept_check.h:
+
+/usr/include/bits/mathcalls-narrow.h:
 
 /usr/include/c++/11.1.0/bits/stl_iterator.h:
 
@@ -288,6 +345,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11.1.0/bits/exception.h:
 
+/usr/include/c++/11.1.0/limits:
+
 /usr/include/c++/11.1.0/bits/streambuf.tcc:
 
 /usr/include/bits/types/wint_t.h:
@@ -303,6 +362,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/sched.h:
 
 /usr/include/c++/11.1.0/bits/cpp_type_traits.h:
+
+/usr/include/bits/flt-eval-method.h:
 
 /usr/include/bits/types/FILE.h:
 
@@ -353,6 +414,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/bits/time64.h:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include/stdarg.h:
+
+/usr/include/c++/11.1.0/bits/specfun.h:
 
 /usr/include/c++/11.1.0/bits/basic_ios.tcc:
 
@@ -426,6 +489,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11.1.0/bits/stringfwd.h:
 
+/usr/include/c++/11.1.0/tr1/riemann_zeta.tcc:
+
 /usr/include/c++/11.1.0/exception:
 
 /usr/include/bits/wchar.h:
@@ -445,6 +510,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/bits/waitstatus.h:
 
 /usr/include/bits/timesize.h:
+
+/usr/include/c++/11.1.0/tr1/legendre_function.tcc:
 
 /usr/include/bits/endian.h:
 
@@ -478,6 +545,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11.1.0/bits/ios_base.h:
 
+/usr/include/bits/fp-logb.h:
+
 /usr/include/c++/11.1.0/bits/ostream.tcc:
 
 /usr/include/asm-generic/errno.h:
@@ -485,6 +554,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/gthr-default.h:
+
+/usr/include/c++/11.1.0/tr1/poly_hermite.tcc:
 
 /usr/include/pthread.h:
 
@@ -499,6 +570,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/bits/time.h:
 
 /usr/include/bits/types/struct_timeval.h:
+
+/usr/include/bits/mathcalls.h:
 
 /usr/include/bits/types/__fpos_t.h:
 
@@ -519,6 +592,8 @@ CMakeFiles/tutorial.dir/main.cpp.o: ../main.cpp \
 /usr/include/bits/setjmp.h:
 
 /usr/include/bits/types/struct___jmp_buf_tag.h:
+
+/usr/include/bits/iscanonical.h:
 
 /usr/include/c++/11.1.0/string:
 
