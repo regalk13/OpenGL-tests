@@ -1,0 +1,6 @@
+/home/regalk/Documents/opengl-test/build/CMakeFiles/rebuild_cache.dir
+/home/regalk/Documents/opengl-test/build/CMakeFiles/edit_cache.dir
+/home/regalk/Documents/opengl-test/build/CMakeFiles/tutorial.dir
+/home/regalk/Documents/opengl-test/build/glad/CMakeFiles/rebuild_cache.dir
+/home/regalk/Documents/opengl-test/build/glad/CMakeFiles/edit_cache.dir
+/home/regalk/Documents/opengl-test/build/glad/CMakeFiles/glad.dir
