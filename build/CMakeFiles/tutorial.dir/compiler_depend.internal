@@ -208,4 +208,20 @@ CMakeFiles/tutorial.dir/main.cpp.o
  /usr/include/c++/11.1.0/tr1/poly_hermite.tcc
  /usr/include/c++/11.1.0/tr1/poly_laguerre.tcc
  /usr/include/c++/11.1.0/tr1/riemann_zeta.tcc
+ /home/regalk/Documents/opengl-test/shaderClass.h
+ /usr/include/c++/11.1.0/fstream
+ /usr/include/c++/11.1.0/bits/codecvt.h
+ /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/basic_file.h
+ /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/c++io.h
+ /usr/include/c++/11.1.0/bits/fstream.tcc
+ /usr/include/c++/11.1.0/sstream
+ /usr/include/c++/11.1.0/bits/sstream.tcc
+ /home/regalk/Documents/opengl-test/VAO.h
+ /home/regalk/Documents/opengl-test/VBO.h
+ /home/regalk/Documents/opengl-test/EBO.h
+ /usr/include/c++/11.1.0/vector
+ /usr/include/c++/11.1.0/bits/stl_uninitialized.h
+ /usr/include/c++/11.1.0/bits/stl_vector.h
+ /usr/include/c++/11.1.0/bits/stl_bvector.h
+ /usr/include/c++/11.1.0/bits/vector.tcc
 
